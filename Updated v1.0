@@ -1,0 +1,1 @@
+Developers can change source files in a branch, but the changes are not released until they are committed. A pull command is issued, the code is reviewed and approved. The approved code is merged back into the main code.
